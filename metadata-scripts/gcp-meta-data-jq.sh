@@ -1,7 +1,7 @@
-###########################################################################################################################
-# This script will help to print the available options to fetch from the virtual machine meta-data based on user input.   #
-# It assumes the script is running in a GCP node with executable permission via bash.                                     #
-###########################################################################################################################
+##################################################################################################################################
+# This script will help to print the available options to fetch from the virtual machine meta-data based on user input via jq.   #
+# It assumes the script is running in a GCP node with executable permission via bash.                                            #
+##################################################################################################################################
 
 
 #!/bin/bash
